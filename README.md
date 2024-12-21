@@ -1,5 +1,9 @@
+Developed by:Reshma R
+
+Reg no:212224040274
+
 # EX No.4.2. CUT SECTION OF SOLIDS
-## DATE:
+
 
 ## AIM: 
 To create the solid model from given drawing and section the solid model
